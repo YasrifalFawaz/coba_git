@@ -94,5 +94,5 @@ print("ini tambahan")
 <<<<<<< HEAD
 print("ini tambahan 222")
 =======
-print("ini tambahan 22")
+print("ini tambahan 221")
 >>>>>>> Baru
