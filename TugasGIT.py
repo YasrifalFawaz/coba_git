@@ -91,4 +91,8 @@ for i, j in data_panen.items():
         print(f"{i} dalam kondisi baik")
 
 print("ini tambahan")
+<<<<<<< HEAD
 print("ini tambahan 222")
+=======
+print("ini tambahan 22")
+>>>>>>> Baru
