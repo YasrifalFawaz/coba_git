@@ -89,3 +89,5 @@ for i, j in data_panen.items():
         print(f"{i} memerlukan perhatian khusus")
     else:
         print(f"{i} dalam kondisi baik")
+
+print("ini tambahan")
